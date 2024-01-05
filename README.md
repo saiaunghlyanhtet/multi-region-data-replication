@@ -40,7 +40,7 @@ When items are written or updated or deleted in the table in first region (e.g. 
 
 6. From the command line, apply the configuration.
    ```
-   terraform plan plan.tfplan
+   terraform apply plan.tfplan
    ```
 
 7. During the prompts:
